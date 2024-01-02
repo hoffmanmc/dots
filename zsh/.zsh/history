@@ -1,0 +1,70 @@
+: 1631998480:0;zsh
+: 1631998577:0;zsh
+: 1631998623:0;ls
+: 1631998629:0;cd ..
+: 1631998629:0;ls
+: 1631998631:0;cd ..
+: 1631998649:0;cd /usr/share/zsh/plugins
+: 1631998663:0;cd /usr
+: 1631998666:0;cd /share
+: 1631998668:0;ls
+: 1631998673:0;cd share
+: 1631998684:0;ls
+: 1631998687:0;cd zsh
+: 1631998688:0;s
+: 1631998689:0;ls
+: 1631998695:0;mkdir plugins
+: 1631998700:0;sudo mkdir plugins
+: 1631998705:0;cd plugins
+: 1631998706:0;ls
+: 1631998744:0;git clone https://github.com/nyquase/vi-mode
+: 1631998752:0;sudo git clone https://github.com/nyquase/vi-mode
+: 1631998757:0;zsh
+: 1631998763:0;ls
+: 1631998776:0;ls vi-mode
+: 1631998814:0;zsh
+: 1631998850:0;zsh
+: 1631998869:0;toejtowejt
+: 1631998872:0;ls
+: 1631998875:0;cat vi
+: 1631998877:0;cat vi-mode
+: 1631999077:0;startx
+: 1631999081:0;clear
+: 1631999129:0;sudo pacman -S pulseaudio
+: 1631999140:0;pkill x
+: 1631999142:0;startx
+: 1631999166:0;ls
+: 1631999168:0;bash
+: 1631999177:0;cd dots
+: 1631999181:0;nvim polybar/.config
+: 1631999248:0;qutebrowser &
+: 1631999256:0;sudo pacman -S rofi
+: 1631999268:0;qutebrowser &
+: 1631999305:0;nvim dots/bspwm
+: 1631999341:0;pkill x
+: 1631999343:0;startx
+: 1631999349:0;pkill polybar
+: 1631999356:0;polybar bar1 &
+: 1631999372:0;polybar bar1 &
+: 1631999378:0;pkill x
+: 1631999379:0;startx
+: 1631999480:0;ls
+: 1631999482:0;cd dots
+: 1631999482:0;ls
+: 1631999502:0;nvim zsh/.zshrc
+: 1631999535:0;cd dots
+: 1631999536:0;ls
+: 1631999580:0;cd
+: 1631999734:0;sudo pacman -S zsh-autosuggestions
+: 1631999737:0;clear
+: 1631999746:0;cd ..
+: 1631999747:0;cd ..
+: 1631999748:0;ls
+: 1631999761:0;cd usr
+: 1631999762:0;ls
+: 1631999788:0;cd share/zsh/plugins/zsh-autosuggestions
+: 1631999790:0;clear
+: 1631999791:0;zsh
+: 1631999847:0;zsh
+zsh
+: 1632000502:0;startx
