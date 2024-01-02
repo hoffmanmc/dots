@@ -2,6 +2,8 @@
 " TODO
 " * change color scheme
 "
+"
+lua require('plugins')
 
 " Vim scripts
 source $HOME/.config/nvim/vimscripts/keybindings.vim
@@ -21,10 +23,11 @@ source $HOME/.config/nvim/lua/plugins.lua
 "
 
 colorscheme wal
+
 set background=light
-highlight Pmenu ctermbg=LightCyan guibg=White
-highlight StatusLine ctermbg=LightCyan
-highlight Syntax ctermbg=LightCyan
+highlight Pmenu ctermbg=Cyan guibg=White
+highlight StatusLine ctermbg=Cyan
+highlight Syntax ctermbg=Cyan
 "highlight IncSearch ctermbg=white guibg=black
 "set background=dark
 "syntax enable
