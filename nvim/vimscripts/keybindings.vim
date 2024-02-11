@@ -1,4 +1,4 @@
-map - :Ex<Enter>
+nnoremap - :Ex<Enter>
 
 
 
